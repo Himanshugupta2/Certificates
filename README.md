@@ -1,9 +1,8 @@
 # Certificates
 
-# DataCamp
+DataCamp
 
+Pluralsight
 
-# Pluralsight
-
-# Guvi
+Guvi
 
